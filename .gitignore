@@ -1,0 +1,10 @@
+/.DS_Store
+/IndexedDBStorage.js
+/index.html
+/localStorage.js
+/memoryStorage.js
+/node_modules
+/package-lock.json
+/package.json
+/sandbox.js
+/storageTester.js
